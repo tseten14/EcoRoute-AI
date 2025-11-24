@@ -1,0 +1,7 @@
+{
+  "name": "EcoRoute AI",
+  "description": "An intelligent route planner optimizing for clean energy efficiency, finding EV charging stations, and providing eco-friendly travel advice using Google Maps data.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
